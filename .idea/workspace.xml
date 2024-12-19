@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="283b34c3-6efb-4f0b-884d-626f00e14386" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/lab10.DOCX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/lab10.vpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/piaps10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/AdministrativeEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/Faculty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/Institute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/Lecturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/Participation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/piaps10-main/src/ru/vsu/cs/rv/ResearchAssociate.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mikhalychat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mikhalychat/PiAPS10.git&quot;,
+    &quot;accountId&quot;: &quot;01dab8b5-1200-435d-9a24-cf2ddc88b019&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qQkauF0IVjylTcSt16O6MNPx23" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="283b34c3-6efb-4f0b-884d-626f00e14386" name="Changes" comment="" />
+      <created>1734602254209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734602254209</updated>
+      <workItem from="1734602256870" duration="727000" />
+      <workItem from="1734603067215" duration="375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
